@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="githubuser">
+
+        <attr name="backColor" format="color"/>
+        <attr name="cardcolor" format="color"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="tintcolor" format="color"/>
+        <attr name="iconcolor" format="color"/>
+        <attr name="searchcolor" format="color"/>
+        <attr name="tabcolor" format="color"/>
+        <attr name="panecolor" format="color"/>
+        <attr name="splashcolor" format="color"/>
+
+    </declare-styleable>
+
+</resources>

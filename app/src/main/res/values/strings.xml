@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="app_logo">Gitty</string>
+    <string name="userAvatar">User Avatar</string>
+
+    <!-- Other string resources-->
+
+    <string name="dark_mode_off">Dark Theme : OFF</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="search_hint">Cari Username</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="username">Username</string>
+    <string name="fullname">Fullname</string>
+    <string name="user_repo">Repository</string>
+    <string name="user_location">Location</string>
+    <string name="user_company">Company</string>
+    <string name="user_following">Following</string>
+    <string name="user_followers">Followers</string>
+
+    <string name="favorite_unavailable">Tidak ditemukan user favorit</string>
+
+    <string name="tab_following">Following</string>
+    <string name="tab_followers">Followers</string>
+
+
+</resources>
